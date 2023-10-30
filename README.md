@@ -6,4 +6,8 @@ This project focuses on creating an interactive sales dashboard using Microsoft 
 - Visualized sales trends over time.
 - Improved data-driven decision-making processes.
 
+
+  ##Project link on the maven analytics
+  https://mavenanalytics.io/project/7912
+
 Explore the dashboard and gain insights into sales trends!
